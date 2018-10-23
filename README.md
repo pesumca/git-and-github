@@ -34,6 +34,8 @@
 * **Note: Pick a username that represents you or that sounds professional. Remember that this is permanent and it is not recommended to change this**
 * Be sure to remember your email that you have used, your username and password
 
-# Author
+# Authors
 
 * [Sudhanva Narayana](https://sudhanva.me)
+* [Akshitha Agarwal]()
+* [Sheedhar Hegde]()
